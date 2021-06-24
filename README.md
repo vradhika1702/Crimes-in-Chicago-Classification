@@ -1,4 +1,4 @@
-# CMPE_255_Project
+# Crimes in Chicago Analysis
 Data Mining Project
 
 The Dataset:
